@@ -1,0 +1,8 @@
+flask
+google-genai
+PyPDF2
+python-dotenv
+werkzeug
+pydantic
+httpx
+pyinstaller
